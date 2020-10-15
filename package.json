@@ -4,8 +4,8 @@
   "private": true,
   "dependencies": {
     "deeplearn": "0.3.12",
-    "react": "^16.1.1",
-    "react-dom": "^16.1.1",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "react-scripts": "1.0.17"
   },
   "scripts": {
